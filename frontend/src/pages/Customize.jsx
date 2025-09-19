@@ -9,7 +9,7 @@ import Card from '../components/Card';
 import { LuImagePlus } from "react-icons/lu";
 import authbg from "../assets/authbg.jpg"
 import { IoIosArrowRoundBack } from "react-icons/io";
-import { userDataContext } from '../context/userContext';
+import { userDataContext } from '../context/UserContext';
 import { useNavigate } from 'react-router-dom';
 
 const Customize = () => {
